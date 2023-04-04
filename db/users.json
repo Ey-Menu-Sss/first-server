@@ -1,0 +1,32 @@
+[
+  {
+    "id": "0879a520-d206-11ed-ae66-fdfee4dfd5cc",
+    "username": "muhammad",
+    "email": "muhamad@gmail.com",
+    "password": "$2a$10$LatOWVWXFxRCwPxQ/y.VFeEwz4hfjhJX6G/W5w3usicthQtFWMJqu"
+  },
+  {
+    "id": "03733290-d219-11ed-a37a-4710c4de79af",
+    "username": "naruto",
+    "email": "naruto@gmail.com",
+    "password": "$2a$10$JW/v.e6Nx4OKBehLzurgYe0GKQx69jikVR67179x2pj36G6ByTRHm"
+  },
+  {
+    "id": "22121860-d219-11ed-93d9-29141efa0ae2",
+    "username": "madara",
+    "email": "madara@gmail.com",
+    "password": "$2a$10$g6WykONUaeGsNoHlGlxtGOq7rwV14UA4K/Tz.l0/4XPm89gN/tuKe"
+  },
+  {
+    "id": "8e82c410-d24e-11ed-8b36-57c34862ad30",
+    "username": "sakura",
+    "email": "sakura@gmail.com",
+    "password": "$2a$10$U.bBqOfVzFZwLEtOji5aGu6W3J76wn752HT1gPGY4op3iW0.Qo/fW"
+  },
+  {
+    "id": "bc986760-d24e-11ed-b82f-a3549d66007b",
+    "username": "itachi",
+    "email": "itachi@gmail.com",
+    "password": "$2a$10$JUMCyB8NDZKs2WFvbZ01ieJUwUe0wpQQKCcR1wsTLICplIvF0vW1q"
+  }
+]

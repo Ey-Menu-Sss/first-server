@@ -1,0 +1,23 @@
+[
+  {
+    "id": "2",
+    "name": "spark",
+    "color": "gray",
+    "price": 7000,
+    "user_id": "03733290-d219-11ed-a37a-4710c4de79af"
+  },
+  {
+    "id": "2a702ae0-d289-11ed-b754-cfa5937305bf",
+    "name": "malibu",
+    "color": "black",
+    "price": "12000",
+    "user_id": "bc986760-d24e-11ed-b82f-a3549d66007b"
+  },
+  {
+    "id": "46665ee0-d289-11ed-95cb-cb5abf2858a8",
+    "name": "bugatti",
+    "color": "yellow",
+    "price": "800000",
+    "user_id": ""
+  }
+]

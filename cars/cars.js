@@ -10,7 +10,7 @@ const getCars = (req, res) => {
     arr = [];
   process.env.UserId = id;
   cars.forEach((c) => c.user_id === id && arr.push(c));
-  res.send(JSON.stringify(arr));
+  res.send(JSON.stringify(arr)); 
 };
 
 // add new car
@@ -22,6 +22,7 @@ const newCar = (req, res) => {
   });
   writeFile("cars.json", cars);
   res.status(200).send(JSON.stringify(cars));
+   
 };
 
 // delete car
